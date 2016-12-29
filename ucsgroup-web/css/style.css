@@ -1,6 +1,10 @@
 html,body{height:100%;}
 body{
-	background: url(../images/body-tail.gif) top center repeat;
+	background: url(../images/light.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 	font:italic 11px/17px "Trebuchet MS", Arial, Helvetica, sans-serif;
 	color:#f1b7b9;
 	text-transform:uppercase;
@@ -8,7 +12,7 @@ body{
 	min-width:960px;
 	-webkit-text-size-adjust: none;
 }
-.light{background:url(../images/light.jpg) center top no-repeat; min-height:100%;}
+.light{ min-height:100%;}
 /*********************************header*************************************/
 header{
 	width:100%;
