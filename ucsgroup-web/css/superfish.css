@@ -2,7 +2,7 @@ nav{position: relative;}
 #menu-icon{
 	display:none;
 	font:400 31px/37px 'Contrail One', cursive;
-	color:#f0a1a3;
+	color:#daac01;
 	text-align:center;
 	letter-spacing:-2px;
 	padding:28px 0 32px;
@@ -25,7 +25,7 @@ nav{position: relative;}
 }
 	.menu > li.last-item{padding-right:0; background:none;}
 	.menu > li > a {color:#fff; text-decoration:none;}
-		.menu > li.sfHover > a,.menu > li > a:hover , .menu > li.current > a {text-decoration:none; color:#f0a1a3;}
+		.menu > li.sfHover > a,.menu > li > a:hover , .menu > li.current > a {text-decoration:none; color:#daac01;}
 	.menu .menu-arrow{display:none;}
 /***submenu***/
 .menu ul {

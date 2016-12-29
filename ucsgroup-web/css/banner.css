@@ -12,7 +12,7 @@
 		overflow:hidden;
 		background:url(../images/banner-circle.png) center top no-repeat;
 		font:italic 11px/17px "Trebuchet MS", Arial, Helvetica, sans-serif;
-		color:#d7ebeb;
+		color:#343434;
 		text-decoration:none;
 		text-align:center;
 		word-spacing:0;
@@ -21,7 +21,7 @@
 		#banner .circle:hover{
 			background-position:center -343px;
 			text-decoration:none;
-			color:#efc7c8;
+			color:#daac01;
 			z-index:999 !important;
 		}
 		#banner .circle-1{margin-top:97px;}
