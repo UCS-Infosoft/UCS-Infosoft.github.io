@@ -120,7 +120,7 @@ blockquote{width:100%;}
 	.quote-content{
 		background:url(../images/quote-tail.png) 0 0 repeat;
 		border-radius:11px;
-		color:#df4f52;
+		color:#daac01;
 		text-indent:33px;
 	}
 		.quote-content .bg{
@@ -176,7 +176,7 @@ a[href^="tel:"]{color: inherit; text-decoration:none;}
 .list-1 li{
 	overflow:hidden;
 	padding-bottom:10px;
-	border-bottom:1px solid #f6c5c4;
+	border-bottom:1px solid #daac01;
 	margin-bottom:24px;
 }
 	.list-1 li.last-item{border-bottom:none; padding-bottom:0;}
@@ -189,7 +189,7 @@ a[href^="tel:"]{color: inherit; text-decoration:none;}
 		padding-bottom:16px;
 		background:url(../images/num-bg.png) center top no-repeat;
 		font:400 36px/54px 'Contrail One', cursive;
-		color:#df4f52;
+		color:#343434;
 		text-align:center;
 	}
 .list-2 li{
